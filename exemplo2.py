@@ -2,7 +2,7 @@ import os
 import PyPDF2
 from embedchain import App
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = ''
 
 pdf_bot = App()
 
